@@ -18,6 +18,7 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 - Time Series Analysis ⏰📊
 - Problem Solving 🧩💡
 - Data Pre-processing and Feature Engineering 🛠️📋
+- Data Visualization📊
 
 ## GitHub Repositories
 
