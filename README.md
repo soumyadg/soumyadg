@@ -20,7 +20,7 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 - Data Pre-processing and Feature Engineering 🛠️📋
 - Data Visualization📊
 
-- ![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
 
 ## GitHub Repositories
 
