@@ -11,7 +11,7 @@ I thrive on using my expertise to provide data-driven solutions across various d
 I possess a diverse set of skills that allow me to excel in the field of Data Science and Machine Learning. Here are some of the key skills I bring to the table:
 
 - Machine Learning and Data Science 🤖📈
-- Programming: Python and R 🐍💻
+- Programming: Python 🐍💻
 - Exploratory Data Analysis and Data Visualization 📊📈
 - Statistics Analysis and Modelling 📉🔬
 - Bayesian Inference 📊📊
@@ -21,7 +21,7 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 
 ## GitHub Repositories
 
-I love working on projects that challenge me and allow me to learn and grow. Here's one of my highlighted projects:
+I love working on projects that challenge me and allow me to learn and grow. Here's few of my highlighted projects:
 
 1. [Recommender System](https://github.com/soumyadg/recommender-system)
    - Developed a movie recommendation system using Roberta to provide personalized movie suggestions to users.
@@ -48,10 +48,6 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 
 7. [Travel Advisor](https://github.com/soumyadg/traveladvisor)
    - Created a travel advisory system using OpenAI to recommend personalized travel plans to users, available at www.tripadviserai.com 🗺️✈️🌍
-
-### Personalized Reading Recommendations
-
-In this project, I developed a personalized reading recommendation system using Python, Flask, HTML, Collaborative Filtering, Data Preprocessing, and Feature Engineering techniques. The system leverages Azure, SQL, and OpenAI technologies to provide users with tailored book recommendations based on their preferences. 📚📖🔍
 
 Feel free to explore the project repositories for more details and code samples!
 
