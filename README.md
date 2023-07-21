@@ -62,3 +62,5 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/soumya-profile
 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email: soumya_02@outlook.com. 📧
 
 Thank you for visiting my GitHub profile! 😊🎉
+
+![](2.gif)
