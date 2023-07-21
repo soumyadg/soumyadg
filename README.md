@@ -63,4 +63,4 @@ If you have any questions, collaboration ideas, or employment opportunities, don
 
 Thank you for visiting my GitHub profile! 😊🎉
 
-![](2.gif)
+![](7.gif)
