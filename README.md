@@ -2,6 +2,9 @@
 # Hey there! 👋 Welcome to my GitHub profile.
 Access my resume here: [📋](Soumya_Dasgupta_updated.pdf)
 
+![Linkedin](linkedinsmall.png)
+![Leetcode](LeetCode_logo_black.png)
+
 ![](soumya.gif)
 
 I'm Soumya, a Ph.D. in Systems and Control, currently working as a Senior Data Scientist. I'm passionate about Mathematics, Statistics, and Machine Learning and enjoy tackling real-life projects to enhance my practical skills and explore new theoretical concepts in statistics. I'm always open to new employment opportunities and project collaborations, so feel free to reach out to me at soumya_02@outlook.com. 📧
