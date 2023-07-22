@@ -94,7 +94,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 Feel free to explore the project repositories for more details and code samples!
 
 # Contact
-   - You can connect with me on [LinkedIn](https://www.linkedin.com/in/soumya-profile/) and also find me actively participating on [LeetCode](https://leetcode.com/soumya_profile/). 
+   - You can connect with me on [LinkedIn](https://www.linkedin.com/in/soumya-profile/) and also find me actively participating on [LeetCode](https://leetcode.com/themanutdmaniac/). 
    - 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email: soumya_02@outlook.com. 📧
 
 Thank you for visiting my GitHub profile! 😊🎉
