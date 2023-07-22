@@ -50,7 +50,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ## 3. [Bike Sharing](https://github.com/soumyadg/Bike-Sharing-System)
    - Predicted bike demand in bike-sharing schemes using time series analysis and regression models. 🚲📈🔮
      
-![](bike.gif)
+![](8tVa.gif)
 
 
 ## 4. [Food Delivery](https://github.com/soumyadg/food-prep-model)
