@@ -36,7 +36,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
    - Developed a movie recommendation system using Roberta to provide personalized movie suggestions to users.
    - Implemented in Python 🎬📚🐍
      
-![](reco.gif)
+![](movie.gif)
 
 
 2. [Cardiovascular Disease Analysis](https://github.com/soumyadg/CardioVascular-Diseases-Analysis)
