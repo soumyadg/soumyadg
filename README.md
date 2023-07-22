@@ -79,6 +79,12 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ![](travel.gif)
 
 
+# Currently working on MLOps on Azure, focusing on Azure OpenAI and Azure Cognitive Search
+
+![](mlops.gif)
+
+
+
 Feel free to explore the project repositories for more details and code samples!
 
 # Contact
