@@ -36,32 +36,32 @@ I love working on projects that challenge me and allow me to learn and grow. Her
    - Developed a movie recommendation system using Roberta to provide personalized movie suggestions to users.
    - Implemented in Python 🎬📚🐍
      
-![][reco.gif)
+![](reco.gif)
 
 
 2. [Cardiovascular Disease Analysis](https://github.com/soumyadg/CardioVascular-Diseases-Analysis)
    - Analyzed cardiovascular disease data to uncover insights into risk factors and patterns using data visualization and statistical analysis.
    - Explored trends and correlations to gain a better understanding of disease prevalence. 💓🔍📊
      
-![][cardio.gif)
+![](cardio.gif)
 
 3. [Bike Sharing](https://github.com/soumyadg/Bike-Sharing-System)
    - Predicted bike demand in bike-sharing schemes using time series analysis and regression models. 🚲📈🔮
      
-![][bike.gif)
+![](bike.gif)
 
 
 4. [Food Delivery](https://github.com/soumyadg/food-prep-model)
    - Developed a model to optimize food delivery routes and delivery times, improving efficiency and customer satisfaction.
    - Utilized machine learning algorithms to predict delivery demand based on historical data. 🍔🚚📊
      
- ![][food.gif)  
+ ![](food.gif)  
 
 5. [LLMs](https://github.com/soumyadg/LLMs)
    - Worked on Large Language Models (LLMs) for real-time applications and in-context learning to enhance the accuracy and efficiency of machine learning models.
    - Focused on developing LLMs to handle large-scale enterprise data securely. 🔍💻🔒
      
-![][llm.gif)
+![](llm.gif)
 
 
 6. [Credit Card Fraud Detection](https://github.com/soumyadg/Credit-Card-Fraud-Detection)
@@ -74,7 +74,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 7. [Travel Advisor](https://github.com/soumyadg/traveladvisor)
    - Created a travel advisory system using OpenAI to recommend personalized travel plans to users, available at www.tripadviserai.com 🗺️✈️🌍
      
-![][travel.gif)
+![](travel.gif)
 
 
 Feel free to explore the project repositories for more details and code samples!
