@@ -81,13 +81,11 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 
 
 
-
-
+----  ▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎ ---
 
 
 
 ### Currently working on MLOps on Azure, focusing on Azure OpenAI and Azure Cognitive Search
-
 ![](mlops.gif)
 
 
