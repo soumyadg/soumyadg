@@ -43,7 +43,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
    - Analyzed cardiovascular disease data to uncover insights into risk factors and patterns using data visualization and statistical analysis.
    - Explored trends and correlations to gain a better understanding of disease prevalence. 💓🔍📊
      
-![](cardio.gif)
+![](ecg.gif)
 
 3. [Bike Sharing](https://github.com/soumyadg/Bike-Sharing-System)
    - Predicted bike demand in bike-sharing schemes using time series analysis and regression models. 🚲📈🔮
