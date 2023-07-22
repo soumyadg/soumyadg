@@ -1,5 +1,5 @@
 # Soumya's GitHub Profile
-Hey there! 👋 Welcome to my GitHub profile.
+# Hey there! 👋 Welcome to my GitHub profile.
 
 ![](soumya.gif)
 
