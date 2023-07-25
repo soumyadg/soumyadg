@@ -28,6 +28,8 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 - Problem Solving 🧩💡
 - Data Pre-processing and Feature Engineering 🛠️📋
 - Data Visualization📊
+- Natural Language Processing 💠
+- LLMs 🧾
 
 ![Screenshot](screenshot.png)
 
