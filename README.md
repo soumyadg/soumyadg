@@ -4,6 +4,7 @@
    I'm Soumya, a Ph.D. in Systems and Control, currently working as a Senior Data Scientist. 
    I'm passionate about Mathematics, Statistics, and Machine Learning and enjoy tackling real-life projects to enhance my practical skills and explore new theoretical concepts in statistics. I'm always open to new employment opportunities and project collaborations, so feel free to reach out to me at soumya_02@outlook.com. 📧
    - Access my resume here: [📋](SOUMYA_DASGUPTA_Resume.pdf)
+   - You can connect with me on [LinkedIn](https://www.linkedin.com/in/soumya-profile/) and also find me actively participating on [LeetCode](https://leetcode.com/themanutdmaniac/). 
 ![](soumya.gif)
 
 
@@ -95,7 +96,6 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 Feel free to explore the project repositories for more details and code samples!
 
 # Contact
-   - You can connect with me on [LinkedIn](https://www.linkedin.com/in/soumya-profile/) and also find me actively participating on [LeetCode](https://leetcode.com/themanutdmaniac/). 
    - 🤝👥 If you have any questions, collaboration ideas, or employment opportunities, don't hesitate to reach out to me via email: soumya_02@outlook.com. 📧
 
 Thank you for visiting my GitHub profile, lets keep growing!  😊🎉
