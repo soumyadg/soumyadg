@@ -86,6 +86,10 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ![](travel.gif)
 
 
+## 8. [CRM : RFM Inter](https://github.com/soumyadg/crm_analytics)
+   - Created a travel advisory system using OpenAI to recommend personalized travel plans to users, available at www.aitripwise.com 🗺️✈️🌍
+     
+![](travel.gif)
 
 
   ▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎
