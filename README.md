@@ -87,7 +87,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 
 
 ## 8. [CRM : RFM Analysis](https://github.com/soumyadg/crm_analytics)
-   - CRM Analytics with RFM Analysis: Uncovering customer insights and segmentation through Recency, Frequency, and Monetary analysis using Python
+   - 💼 CRM Analytics with RFM Analysis: Uncover customer insights and segmentation through 🔍 Recency, 🔄 Frequency, and 💰 Monetary analysis using Python. 💡
 ![](segmentation.gif)
 
 
