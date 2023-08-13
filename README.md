@@ -1,7 +1,5 @@
 ![Screenshot](aa.png)
 
-[![Watch the video]((https://github.com/soumyadg/soumyadg/blob/main/My%20Movie%201%20-%20SD%20480p.mov))
-
 # Hey there! 👋 Welcome to my GitHub profile.
 
    I'm Soumya, a Ph.D. in Systems and Control, currently working as a Senior Data Scientist. 
