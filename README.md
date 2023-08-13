@@ -91,6 +91,10 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ![](segmentation.gif)
 
 
+## 9. [Topic Modelling](https://github.com/soumyadg/Topic-Modelling)
+   - 💼 Exploring unlabeled data's cluster numbers to uncover diverse insights from politics to entertainment. 📊🌐 #DataAnalysis
+![](00.gif)
+
   ▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎▷▶︎
 
 
