@@ -33,6 +33,7 @@ I possess a diverse set of skills that allow me to excel in the field of Data Sc
 
 
 
+
 ![Screenshot](screenshot.png)
 
 # GitHub Repositories
