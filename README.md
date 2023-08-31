@@ -9,6 +9,7 @@
 ![](soumya.gif)
 
 
+
 # About Me
 
 I thrive on using my expertise to provide data-driven solutions across various domains. As a Data Scientist with a PhD degree in Systems and Control and an extensive portfolio of over multiple projects, I'm well-equipped to tackle a wide range of challenges. My ultimate goal is to make a meaningful impact through data analysis and machine learning techniques. 💼📊🚀
