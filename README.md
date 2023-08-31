@@ -82,6 +82,7 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ![Screenshot](credit.png)
 
 
+
 ## 7. [Travel Advisor using OpenAI and LangChain](https://github.com/soumyadg/traveladvisor)
    - Created a travel advisory system using OpenAI to recommend personalized travel plans to users, available at www.aitripwise.com 🗺️✈️🌍
      
