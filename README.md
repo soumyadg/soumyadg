@@ -105,7 +105,6 @@ I love working on projects that challenge me and allow me to learn and grow. Her
 ![](mlops.gif)
 
 
-
 Feel free to explore the project repositories for more details and code samples!
 
 # Contact
